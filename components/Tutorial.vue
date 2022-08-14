@@ -21,7 +21,6 @@
         <IconYoutube class="text-red-500 w-8"/>
         <IconYoutube class="text-red-500 w-12"/>
       </div>
-
     </div>
   </div>
 </template>
